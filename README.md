@@ -1,3 +1,11 @@
+# 功能
+1. 发文字
+2. 发图片
+3. 发语音
+4. 发卡片
+5. 采集用户
+6. 修改定位
+等等
 
 # 效果![在这里插入图片描述](https://img-blog.csdnimg.cn/01e4e6d67d56443a8541d799660347c7.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6Iul5rC05oOF57yY,size_20,color_FFFFFF,t_70,g_se,x_16)
 
