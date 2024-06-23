@@ -7,6 +7,14 @@
 6. 修改定位
 等等
 
+# 需要环境
+1. xposed,edxposed,lsp环境
+2. 自定义rom加载
+3. 太极,vapp等
+4. 可改机的云机 (可以找我,有专业团队维护, 解决技术问题, 比如过风控,平板模式等等)
+
+
+
 # 效果![在这里插入图片描述](https://img-blog.csdnimg.cn/01e4e6d67d56443a8541d799660347c7.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6Iul5rC05oOF57yY,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 
